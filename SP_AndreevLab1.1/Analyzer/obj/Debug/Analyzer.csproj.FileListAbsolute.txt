@@ -1,0 +1,12 @@
+C:\Users\pizdn\source\repos\SP_AndreevLab1.1\Analyzer\bin\Debug\Analyzer.dll
+C:\Users\pizdn\source\repos\SP_AndreevLab1.1\Analyzer\bin\Debug\Analyzer.pdb
+C:\Users\pizdn\source\repos\SP_AndreevLab1.1\Analyzer\obj\Debug\Analyzer.csproj.AssemblyReference.cache
+C:\Users\pizdn\source\repos\SP_AndreevLab1.1\Analyzer\obj\Debug\Analyzer.csproj.CoreCompileInputs.cache
+C:\Users\pizdn\source\repos\SP_AndreevLab1.1\Analyzer\obj\Debug\Analyzer.dll
+C:\Users\pizdn\source\repos\SP_AndreevLab1.1\Analyzer\obj\Debug\Analyzer.pdb
+C:\Users\pizdn\source\repos\SP_AndreevLab1.1\SP_AndreevLab1.1\Analyzer\bin\Debug\Analyzer.dll
+C:\Users\pizdn\source\repos\SP_AndreevLab1.1\SP_AndreevLab1.1\Analyzer\bin\Debug\Analyzer.pdb
+C:\Users\pizdn\source\repos\SP_AndreevLab1.1\SP_AndreevLab1.1\Analyzer\obj\Debug\Analyzer.csproj.AssemblyReference.cache
+C:\Users\pizdn\source\repos\SP_AndreevLab1.1\SP_AndreevLab1.1\Analyzer\obj\Debug\Analyzer.csproj.CoreCompileInputs.cache
+C:\Users\pizdn\source\repos\SP_AndreevLab1.1\SP_AndreevLab1.1\Analyzer\obj\Debug\Analyzer.dll
+C:\Users\pizdn\source\repos\SP_AndreevLab1.1\SP_AndreevLab1.1\Analyzer\obj\Debug\Analyzer.pdb

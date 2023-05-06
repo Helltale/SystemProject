@@ -1,0 +1,12 @@
+C:\Users\pizdn\source\repos\SP_AndreevLab1.1\DllAnd\bin\Debug\DllAnd.dll
+C:\Users\pizdn\source\repos\SP_AndreevLab1.1\DllAnd\bin\Debug\DllAnd.pdb
+C:\Users\pizdn\source\repos\SP_AndreevLab1.1\DllAnd\obj\Debug\DllAnd.csproj.AssemblyReference.cache
+C:\Users\pizdn\source\repos\SP_AndreevLab1.1\DllAnd\obj\Debug\DllAnd.csproj.CoreCompileInputs.cache
+C:\Users\pizdn\source\repos\SP_AndreevLab1.1\DllAnd\obj\Debug\DllAnd.dll
+C:\Users\pizdn\source\repos\SP_AndreevLab1.1\DllAnd\obj\Debug\DllAnd.pdb
+C:\Users\pizdn\source\repos\SP_AndreevLab1.1\SP_AndreevLab1.1\DllAnd\bin\Debug\DllAnd.dll
+C:\Users\pizdn\source\repos\SP_AndreevLab1.1\SP_AndreevLab1.1\DllAnd\bin\Debug\DllAnd.pdb
+C:\Users\pizdn\source\repos\SP_AndreevLab1.1\SP_AndreevLab1.1\DllAnd\obj\Debug\DllAnd.csproj.AssemblyReference.cache
+C:\Users\pizdn\source\repos\SP_AndreevLab1.1\SP_AndreevLab1.1\DllAnd\obj\Debug\DllAnd.csproj.CoreCompileInputs.cache
+C:\Users\pizdn\source\repos\SP_AndreevLab1.1\SP_AndreevLab1.1\DllAnd\obj\Debug\DllAnd.dll
+C:\Users\pizdn\source\repos\SP_AndreevLab1.1\SP_AndreevLab1.1\DllAnd\obj\Debug\DllAnd.pdb

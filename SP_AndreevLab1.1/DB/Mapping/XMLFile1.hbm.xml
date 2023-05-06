@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" assembly="DB" namespace="DB">
+	<class name="DBFileInfo">
+		<id name="Id">
+			<generator class="native"/>
+		</id>
+		<property name="path"/>
+		<property name="size"/>
+		<property name="date_"/>
+	</class>
+</hibernate-mapping>
